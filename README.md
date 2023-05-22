@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npx crete-react-app ./`
+
+After entering right file location, open terminal and write this commaand. This installs important "node module" folder that helps your see the website.
+
 ### `npm start`
 
 Runs the app in the development mode.\
